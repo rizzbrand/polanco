@@ -97,7 +97,7 @@ export function CTAFooter() {
               </li>
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4" />
-                <span>Accra Ghana</span>
+                <span>Lagos, Nigeria</span>
               </li>
             </ul>
           </div>
